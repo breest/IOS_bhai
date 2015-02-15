@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0.0</string>
+	<key>isFirstRun</key>
+	<true/>
+	<key>Tips</key>
+	<array>
+		<string>屏幕被键盘遮挡时，只需要轻触标题栏，键盘就会自动隐藏。</string>
+		<string>在经书主界面用双指从左往右拖动，可以显示左侧目录界面。</string>
+		<string>在经书主界面用双指从右往左拖动，可以显示右侧界面。你可以在右侧写下自己读经的理解和新的体验。</string>
+		<string>你可以使用左右滑动来翻页，也可以使用上下滑动翻页。</string>
+	</array>
+	<key>TotalCounts</key>
+	<integer>0</integer>
+</dict>
+</plist>
